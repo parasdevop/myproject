@@ -1,15 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\StudentPortal-master",
-    "\\StudentPortal-master\\StudentPortal.Web",
-    "\\StudentPortal-master\\StudentPortal.Web\\Controllers",
-    "\\StudentPortal-master\\StudentPortal.Web\\wwwroot",
-    "\\StudentPortal-master\\StudentPortal.Web\\wwwroot\\css",
-    "\\StudentPortal-master\\StudentPortal.Web\\wwwroot\\js",
-    "\\StudentPortal-master\\StudentPortal.Web\\wwwroot\\lib",
-    "\\StudentPortal-master\\StudentPortal.Web\\wwwroot\\lib\\jquery",
-    "\\StudentPortal-master\\StudentPortal.Web\\wwwroot\\lib\\jquery-validation"
+    ""
   ],
+  "SelectedNode": "\\StudentPortal.Web.sln",
   "PreviewInSolutionExplorer": false
 }
